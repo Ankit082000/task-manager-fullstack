@@ -20,7 +20,7 @@
 ## ⚙️ How to Run Project
 
 ### 1️⃣ Clone Repository
-git clone https://github.com/YOUR_USERNAME/task-manager-fullstack.git
+git clone https://github.com/Ankit082000/task-manager-fullstack.git
 
 ---
 
